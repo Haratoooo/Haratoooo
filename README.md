@@ -1,6 +1,6 @@
-# Hi there, I'm Heart Alvern Sumicad 👋
+# Hi there, I'm Heart Alvern Sumicad 
 
-### 💻 Software Engineer & Data Scientist
+###  Software Engineer & Data Scientist
 
 I am a Computer Science student at the University of San Carlos, specializing in full-stack development and AI data pipelines. I have proven experience leveraging modern frameworks, Large Language Models (LLMs), and API integrations to drive scalable, real-world product innovation.
 
@@ -16,7 +16,7 @@ I am a Computer Science student at the University of San Carlos, specializing in
 
 ---
 
-## 🚀 Experience & Projects
+##  Experience & Projects
 
 ### Internship / OJT (Skanlog)
 * **TableTap:** Built a full-stack restaurant reservation platform featuring a user-facing mobile application and a corresponding web interface. 
