@@ -6,26 +6,45 @@ I am a Computer Science student at the University of San Carlos, specializing in
 
 ---
 
-##  Tech Stack & Tools
+<h3 align="center">Main Languages</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</div>
 
-* **Languages:** Python, Java, C, C++, C#, SQL, JavaScript, TypeScript, HTML, XML/XAML
-* **Frameworks/Libraries:** .NET MAUI, ASP.NET Core, Angular, Vue.js, React
-* **Data Science & ML:** CNNs, SVM Ensemble, Data Analysis
-* **Databases:** SQL Server, Supabase, Firebase
-* **Tools & Platforms:** Git, Azure, Android Studio, GameMaker Studio 2
+<br>
 
----
+<h3 align="center">Frontend & Mobile Development</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI" />
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</div>
 
-##  Experience & Projects
+<br>
 
-### Internship / OJT (Skanlog)
-* **TableTap:** Built a full-stack restaurant reservation platform featuring a user-facing mobile application and a corresponding web interface. 
-* **StockOps:** Engineered foundational modules for a warehouse management system aimed at digitizing logistical workflows and optimizing real-time inventory tracking.
+<h3 align="center">Backend Development & Databases</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+</div>
 
-### Highlighted Technical Projects
-* **Parkinson's Disease Detection (Thesis):** Developed and trained a machine learning model using static handwriting analysis, combining Convolutional Neural Networks and a Support Vector Machine ensemble to evaluate image data.
-* **Hatud - Sugbuanon Saga:** A cozy-horror game inspired by Cebuano folklore, featuring delivery mechanics. Successfully submitted as a Game Jam 2025 entry and won The Sugbuanon Spirit Award.
-* **PaddleStack:** Built a pickleball booking web application using Vue.js and Supabase to streamline court reservations.
+<br>
+
+<h3 align="center">Other Tools and Technologies</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+</div>
 
 ---
 
