@@ -31,9 +31,9 @@ I am a Computer Science student at the University of San Carlos, specializing in
 
 ##  GitHub Stats
 
-![Heart's GitHub stats](https://github-readme-stats.vercel.app/api?username=haratoooo&show_icons=true&theme=radical)
+![Heart's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haratoooo&show_icons=true&theme=radical&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haratoooo&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haratoooo&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
