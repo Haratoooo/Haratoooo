@@ -6,7 +6,7 @@ I am a Computer Science student at the University of San Carlos, specializing in
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 * **Languages:** Python, Java, C, C++, C#, SQL, JavaScript, TypeScript, HTML, XML/XAML
 * **Frameworks/Libraries:** .NET MAUI, ASP.NET Core, Angular, Vue.js, React
@@ -29,15 +29,15 @@ I am a Computer Science student at the University of San Carlos, specializing in
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
-![Heart's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haratoooo&show_icons=true&theme=radical)
+![Heart's GitHub stats](https://github-readme-stats.vercel.app/api?username=haratoooo&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haratoooo&layout=compact&theme=radical)
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 * **Portfolio:** [harato-portfolio.vercel.app](https://harato-portfolio.vercel.app)
 * **LinkedIn:** [linkedin.com/in/heart-alvern-sumicad](https://linkedin.com/in/heart-alvern-sumicad)
