@@ -1,8 +1,8 @@
 # Hi there, I'm Heart Alvern Sumicad
 
-### Software Engineer & Data Scientist
+### Software Engineer & Data Analyst
 
-I'm a Computer Science student at the University of San Carlos who builds full-stack web apps, mobile apps and data/AI pipelines. I like taking a project from a rough idea to something people actually use: designing the data model, building the app, and wiring it to real services and hardware.
+Graduated BS Computer Science from the University of San Carlos, who builds full-stack web apps, mobile apps and data/AI pipelines. I like taking a project from a rough idea to something people actually use: designing the data model, building the app, and wiring it to real services and hardware.
 
 ---
 
