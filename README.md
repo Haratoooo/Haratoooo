@@ -14,6 +14,7 @@ I'm a Computer Science student at the University of San Carlos who builds full-s
 | **[EcoHealth Tracker](https://github.com/Haratoooo/EcoHealthTracker)** | Android app for tracking symptoms, environmental exposures and medical documents in pollution-affected areas | Java, Android |
 | **[Parkinson's handwriting pipeline](https://github.com/Haratoooo/THESIS-PD-non-PD)** | Image preprocessing and augmentation for classifying Parkinson's disease from spiral and wave handwriting | Python, deep learning |
 | **[Bloom Dash](https://github.com/Haratoooo/Bloom-Dash-)** | Endless runner where a hedgehog travels through seasonal landscapes collecting trinkets | Java, OOP |
+| **PaddleStack** *(private)* | Website for a paddle sports court venue in Cebu City: court gallery, opening hours and location map | Vue 3, TypeScript, Vite |
 | **River Monitor** *(client project, private)* | Flood early-warning app: live water level and flow per station, GIS map, hazard alerts, and admin controls for sirens and station cameras | Flutter, Firebase |
 
 ---
